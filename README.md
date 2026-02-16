@@ -2,8 +2,8 @@ Hi there! I’m Farhan or more known as Yunn, an aspiring Software Engineer stud
 
 These days I’m focused on:
 
-Strengthening my foundation in Java and Python
+• Strengthening my foundation in Java and Python
 
-Version control and collaborative development via Git
+• Version control and collaborative development via Git
 
-Small, open-source projects with high impact
+• Small, open-source projects with high impact
