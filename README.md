@@ -1,4 +1,4 @@
-[![Banner](https://lh3.googleusercontent.com/d/1YBXsnq8qpe_5ctOZcGgtGFjIhg7vUDi3)](https://seladevs.verce.my/)
+[![Banner](https://lh3.googleusercontent.com/d/1YBXsnq8qpe_5ctOZcGgtGFjIhg7vUDi3)](https://seladevs.my/)
 
 
 
